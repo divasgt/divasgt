@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 - I'm exploring programming and AI/ML.
 - I'm currently learning to use APIs and playing with them, building stuff.
 - I’m looking to collaborate on anything interesting.
-- Feel free to contact me anytime, dm me on [Twitter](https://twitter.com/divas_v) or on Discord @divasv
+- Feel free to contact me anytime, dm me on [Twitter](https://twitter.com/divas_v) @divas_v or on Discord @divasv

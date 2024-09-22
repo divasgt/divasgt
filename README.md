@@ -1,4 +1,4 @@
-### Hi, I'm divas.
+### Hi, I'm Divas.
 
 <!--
 **divasgt/divasgt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- I'm exploring programming and AI/ML.
-- I'm currently learning to use APIs and playing with them, building stuff.
+- I'm exploring programming, web dev, AI/ML.
+- I'm currently learning web development.
 - I’m looking to collaborate on anything interesting.
 - Feel free to contact me anytime, dm me on [Twitter](https://twitter.com/divas_v) @divas_v or on Discord @divasv

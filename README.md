@@ -23,8 +23,8 @@
 
 ### 💻 My Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,html,css,tailwind,sass,python,bash,firebase,supabase,git,github,figma,postman,vercel,netlify,linux,docker,vscode,vim,jest" />
+<p align="">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,html,css,tailwind,sass,python,bash,firebase,supabase,git,github,figma,postman,vercel,netlify,linux,vscode,vim" />
 </p>
 
 ---
